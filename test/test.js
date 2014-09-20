@@ -1,5 +1,5 @@
 require('should');
-var f = require('..');
+var f = require('../index');
 
 describe('Calculating alcohol', function() {
   it('Should calculate the expected value', function() {
